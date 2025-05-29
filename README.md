@@ -1,4 +1,4 @@
-# Delaksan Demo App
+# Demo App
 
 This is a simple Spring Boot application that displays a "Hello World" message.
 
